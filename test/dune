@@ -1,0 +1,4 @@
+(executable
+ (name standalone)
+ (modules Standalone)
+ (libraries ppx_inline_interface ppxlib))

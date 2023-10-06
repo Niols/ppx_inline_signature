@@ -1,0 +1,5 @@
+(library
+ (name ppx_inline_signature)
+ (public_name ppx_inline_signature)
+ (libraries ppxlib)
+ (kind ppx_rewriter))
